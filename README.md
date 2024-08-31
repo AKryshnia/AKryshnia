@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Kryshnia
+=====================================================================================================================================
 
-<!--
-**AKryshnia/AKryshnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer
+----------------
 
-Here are some ideas to get you started:
+I've been engaged in programming for over two years since switching careers. Here are my training projects back from the study times. My today's stack: Python, Django, Django REST Framework, SQLite, HTML, Celery, Redis, APScheduler, Flask, SQLAlchemy, PostgreSQL, Keycloak, Docker, I'm digging into Linux environment (Linux Mint to be specific). Apart from programming, I have 18 years of experience in translation, editing, proofreading and linguistic quality assurance. I speak English, a bit of French and Italian.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Saint Petersburg
+*   ✉️  You can contact me at [svartha@gmail.com](mailto:svartha@gmail.com)
+*   🧠  I'm learning Superset + Airflow
+*   🤝  I'm open to collaborating on interesting web dev projects
+*   ⚡  I'm a Witcher 3 and Fallout 2 fan!
