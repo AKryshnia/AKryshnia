@@ -8,6 +8,6 @@ I've been engaged in backend programming for a couple of years since switching c
 
 *   🌍  I'm based in Saint Petersburg
 *   ✉️  You can contact me at [me@kryshnia.ru](mailto:me@kryshnia.ru)
-*   🧠  I'm learning Superset + Airflow
+*   🧠  I'm learning FastAPI, React + Tailwind
 *   🤝  I'm open to collaborating on interesting web dev projects
 *   ⚡  I'm a Witcher 3 and Fallout 2 fan!
