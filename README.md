@@ -1,13 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Kryshnia
-=====================================================================================================================================
+# **Anna Kryshnia**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=620&lines=Python+Developer+%7C+Aspiring+Fullstack+Engineer)](https://git.io/typing-svg)
 
-Python Developer
-----------------
+*Привет! Меня зовут Анна Крышня, и я разработчик Python с опытом в создании надежных и масштабируемых веб-приложений. В данный момент углубляюсь в frontend-разработку (React + TypeScript), чтобы стать полноценным fullstack-инженером.*
 
-I've been engaged in backend programming for a couple of years since switching careers. Here are my training projects back from the study times, and also some non-NDA projects. My today's stack: Python, Django, Django REST Framework, Flask, FastAPI, SQLite, HTML, Celery, Redis, SQLAlchemy, PostgreSQL, Matplotlib, Keycloak, Docker, I'm digging into Linux environment (Linux Mint to be specific). Apart from programming, I have 18 years of experience in translation, editing, proofreading and linguistic quality assurance. I speak English, a bit of French and Italian.
+---
 
-*   🌍  I'm currently based in Saint Petersburg
-*   ✉️  You can contact me at [me@kryshnia.ru](mailto:me@kryshnia.ru)
-*   🧠  I'm learning frontend (React + TypeScript)
-*   🤝  I'm open to collaborating on interesting web dev projects
-*   ⚡  I'm a Witcher 3 and Fallout 2 fan!
+## **Ключевые навыки**
+
+### Backend Development
+- **Языки:** Python, JavaScript  
+- **Фреймворки:** Django, Django REST Framework, Flask, FastAPI, LangChain  
+- **Базы данных:** PostgreSQL, SQLite, SQLAlchemy  
+- **Асинхронность & Задачи:** Celery, Redis  
+- **Авторизация:** Keycloak, JWT  
+- **Контейнеризация:** Docker  
+
+### Frontend Development (в процессе изучения)
+- **Технологии:** React, Vue, TypeScript, Tailwind CSS, Vite  
+- **Стейт-менеджмент:** useState, useEffect  
+- **Инструменты:** ESLint, PostCSS  
+
+### Дополнительные компетенции
+- **Данные и анализ:** Matplotlib, Pandas, BioPython  
+- **Операционные системы:** Linux Mint (Linux environment)  
+- **Перевод и редактирование:** 18 лет опыта в переводе, редактировании и лингвистическом контроле качества (английский, французский, итальянский)
+
+---
+
+## **Мои интересы**
+- 🌍 Живу и работаю в Санкт-Петербурге  
+- 📩 Свяжитесь со мной: [me@kryshnia.ru](mailto:me@kryshnia.ru)  
+- 🧠 Изучаю: React, TypeScript, Linux  
+- 🤝 Открыта к сотрудничеству над интересными веб-проектами  
+- ⚡ Fun Fact: Я фанат игр *The Witcher 3* и *Fallout 2*!
+
+---
+
+## **Цели**
+- Углубить знания в frontend-разработке и создании сложных UI/UX решений.  
+- Разработать несколько полезных open-source проектов для сообщества.  
+- Продолжить работу над AI-решениями и их интеграцией в реальные проекты.
+
+---
+
+## **Как мне помогать?**
+Если вам понравился мой профиль или вы хотите обсудить возможное сотрудничество, свяжитесь со мной через любую из перечисленных ниже платформ.
+
+---
+
+## **Контакты**
+- **Email:** [me@kryshnia.ru](mailto:me@kryshnia.ru)  
+- **Telegram:** [@AnnaStripy](https://t.me/AnnaStripy)  
+- **LinkedIn:** [Anna Kryshnia](https://linkedin.com/in/anna-kryshnia-82b008a9/)  
+
+---
+
+## **Немного обо мне**
+В дополнение к программированию, я имею 18-летний опыт работы с языками: перевод, редактирование, корректура и лингвистический контроль качества. Это позволяет мне подходить к задачам не только как разработчику, но и как человеку с вниманием к деталям и качеству продукта.
+
+---
+
+## **Спасибо за просмотр!**
+Если вам понравился мой профиль или вы хотите обсудить возможное сотрудничество, напишите мне. До встречи в коде! 😊
+
+---
