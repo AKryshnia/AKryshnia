@@ -9,7 +9,7 @@
 
 ### Backend Development
 - **Языки:** Python, JavaScript  
-- **Фреймворки:** Django, Django REST Framework, Flask, FastAPI, LangChain  
+- **Фреймворки:** Django, Django REST Framework, Flask, FastAPI, LangChain, Nuxt.js  
 - **Базы данных:** PostgreSQL, SQLite, SQLAlchemy  
 - **Асинхронность & Задачи:** Celery, Redis  
 - **Авторизация:** Keycloak, JWT  
