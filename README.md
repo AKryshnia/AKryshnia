@@ -8,15 +8,15 @@
 ## **Ключевые навыки**
 
 ### Backend Development
-- **Языки:** Python, JavaScript  
-- **Фреймворки:** Django, Django REST Framework, Flask, FastAPI, LangChain, Nuxt.js  
-- **Базы данных:** PostgreSQL, SQLite, SQLAlchemy  
+- **Языки:** Python, JavaScript/TypeScript
+- **Фреймворки:** Django, Django REST Framework, FastAPI, Flask, LangChain, Nuxt.js  
+- **Базы данных:** PostgreSQL, SQLite, MongoDB, Redis, SQLAlchemy/Alembic  
 - **Асинхронность & Задачи:** Celery, Redis  
 - **Авторизация:** Keycloak, JWT  
 - **Контейнеризация:** Docker  
 
 ### Frontend Development (в процессе изучения)
-- **Технологии:** React, Vue, TypeScript, Tailwind CSS, Vite  
+- **Технологии:** React, Vue, JavaScript/TypeScript, HTML, Tailwind CSS, Vite  
 - **Стейт-менеджмент:** useState, useEffect  
 - **Инструменты:** ESLint, PostCSS  
 
@@ -29,7 +29,7 @@
 
 ## **Мои интересы**
 - 🌍 Живу и работаю в Санкт-Петербурге  
-- 🧠 Изучаю: React, TypeScript, Linux  
+- 🧠 Изучаю: Go, React, TypeScript, Linux  
 - 🤝 Открыта к сотрудничеству над интересными веб-проектами  
 - ⚡ Fun Fact: Я фанат игр *The Witcher 3* и *Fallout 2*!
 
