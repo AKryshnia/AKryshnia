@@ -1,5 +1,5 @@
 # **Anna Kryshnia**  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3341B9&background=ABF4FF00&center=true&vCenter=true&width=620&height=70&lines=Python+Developer+%7C+Aspiring+Fullstack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3341B9&background=ABF4FF00&center=true&vCenter=true&width=620&height=70&lines=Python+Developer+%7C+Fullstack+Engineer)](https://git.io/typing-svg)
 
 *Привет! Меня зовут Анна Крышня, и я fullstack-разработчик (Python/JS) с опытом в создании надежных и масштабируемых веб-приложений. В данный момент углубляюсь в frontend-разработку (React + TypeScript).*
 
