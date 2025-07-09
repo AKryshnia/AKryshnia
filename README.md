@@ -16,13 +16,12 @@
 - **Контейнеризация:** Docker  
 
 ### Frontend Development (в процессе изучения)
-- **Технологии:** React, Vue, JavaScript/TypeScript, HTML, Tailwind CSS, Vite  
-- **Стейт-менеджмент:** useState, useEffect  
+- **Технологии:** React, Vue, JavaScript/TypeScript, HTML, CSS, Vite
 - **Инструменты:** ESLint, PostCSS  
 
 ### Дополнительные компетенции
 - **Данные и анализ:** Matplotlib, Pandas, BioPython  
-- **Операционные системы:** Linux Mint (Linux environment)  
+- **Операционные системы:** Linux Ubuntu/Mint, WSL
 - **Перевод и редактирование:** 15+ лет опыта в переводе, редактировании и лингвистическом контроле качества (английский, французский, итальянский)
 
 ---
