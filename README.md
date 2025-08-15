@@ -15,13 +15,13 @@
 - **Авторизация:** Keycloak, JWT  
 - **Контейнеризация:** Docker  
 
-### Frontend Development (в процессе изучения)
+### Frontend Development
 - **Технологии:** React, Vue, JavaScript/TypeScript, HTML, CSS, Vite
 - **Инструменты:** ESLint, PostCSS  
 
 ### Дополнительные компетенции
 - **Данные и анализ:** Matplotlib, Pandas, BioPython  
-- **Операционные системы:** Linux Ubuntu/Mint, WSL
+- **Операционные системы:** Linux Ubuntu/Mint, WSL, Windows
 - **Перевод и редактирование:** 15+ лет опыта в переводе, редактировании и лингвистическом контроле качества (английский, французский, итальянский)
 
 ---
