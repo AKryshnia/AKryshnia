@@ -1,48 +1,59 @@
 # **Anna Kryshnia**  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3341B9&background=ABF4FF00&center=true&vCenter=true&width=620&height=70&lines=Python+Developer+%7C+Fullstack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3341B9&background=ABF4FF00&center=true&vCenter=true&width=620&height=70&lines=Build+•+Ship+•+Maintain)](https://git.io/typing-svg)
 
-*Привет! Меня зовут Анна Крышня, и я fullstack-разработчик (Python/JS) с опытом в создании надежных и масштабируемых веб-приложений. В данный момент углубляюсь в frontend-разработку (React + TypeScript).*
-
----
-
-## **Ключевые навыки**
-
-### Backend Development
-- **Языки:** Python, JavaScript/TypeScript
-- **Фреймворки:** Django, Django REST Framework, FastAPI, Flask, LangChain, Nuxt.js  
-- **Базы данных:** PostgreSQL, SQLite, MongoDB, Redis, SQLAlchemy/Alembic  
-- **Асинхронность & Задачи:** Celery, Redis  
-- **Авторизация:** Keycloak, JWT  
-- **Контейнеризация:** Docker  
-
-### Frontend Development
-- **Технологии:** React, Vue, JavaScript/TypeScript, HTML, CSS, Vite
-- **Инструменты:** ESLint, PostCSS  
-
-### Дополнительные компетенции
-- **Данные и анализ:** Matplotlib, Pandas, BioPython  
-- **Операционные системы:** Linux Ubuntu/Mint, WSL, Windows
-- **Перевод и редактирование:** 15+ лет опыта в переводе, редактировании и лингвистическом контроле качества (английский, французский, итальянский)
+Full-Stack Developer (TypeScript • Python) building production-grade web apps.  
+Currently focused on **Frontend Engineering** in **React + TypeScript** — complex UI, state, performance, and clean architecture.
 
 ---
 
-## **Мои интересы**
-- 🌍 Живу и работаю в Санкт-Петербурге  
-- 🧠 Изучаю: Go, React Native, Linux  
-- 🤝 Открыта к сотрудничеству над интересными веб-проектами  
-- ⚡ Fun Fact: Я фанат игр *The Witcher 3* и *Fallout 2*!
+📍 Saint Petersburg • 🌍 Remote / Open to relocation  
+🧠 Interests: Go, Flutter, AppSec (OWASP)  
+🎮 Fun fact: I’m a fan of *The Witcher 3* and *Fallout 2*
 
 ---
 
-## **Цели**
-- Углубить знания в frontend-разработке и создании сложных UI/UX решений.  
-- Разработать несколько полезных open-source проектов для сообщества.  
-- Продолжить работу над AI-решениями и их интеграцией в реальные проекты.
+## What I do
+- Build and maintain production web apps end-to-end: UI → APIs → databases → deployments
+- Turn business requirements into clean, testable, maintainable code
+- Improve UX and performance in state-heavy interfaces
+- Integrate auth, background jobs, real-time features, and third-party services
 
 ---
 
-## **Контакты**
-- **Email:** [me@kryshnia.ru](mailto:me@kryshnia.ru)  
+## Tech stack
+
+### Backend
+- Python: FastAPI, Django, DRF
+- PostgreSQL • Redis • Celery
+- SQLAlchemy • Alembic
+- Auth: JWT • RBAC • (Keycloak when needed)
+- Docker • CI/CD
+- PDF/doc pipelines: WeasyPrint • PyMuPDF
+
+### Frontend
+- React • TypeScript • Vite
+- UI: Chakra / shadcn • React Router
+- Forms: React Hook Form
+- Motion/UI: Framer Motion • Lucide
+- Charts: Recharts
+- HTML • CSS
+
+### Extras
+- Data tooling: Pandas • Matplotlib
+- OS: Linux (Ubuntu/Mint), WSL, Windows
+- 15+ years in translation & linguistic QA (EN/FR/IT): strong attention to terminology, specs, and documentation.
+
+---
+
+## Goals
+- Grow deeper in **frontend engineering** and complex UI/UX
+- Release a few useful **open-source** tools
+- Keep building **AI-powered features** and integrate them into real products
+
+---
+
+## Contact
+- **Email:** [svartha@gmail.com](mailto:svartha@gmail.com)  
 - **Telegram:** [@AnnaStripy](https://t.me/AnnaStripy)  
-- **LinkedIn:** [Anna Kryshnia](https://linkedin.com/in/anna-kryshnia-82b008a9/)  
+- **LinkedIn:** [Anna Kryshnia](https://linkedin.com/in/anna-kryshnia1/)  
 
